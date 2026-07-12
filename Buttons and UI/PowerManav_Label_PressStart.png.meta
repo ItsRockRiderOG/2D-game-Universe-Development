@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: fa1e6dfe14d0c6e4592ba51292132250
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4214513767893036641
+    second: PowerManav_Label_PressStart_0
+  - first:
+      213: 5697127814446685716
+    second: PowerManav_Label_PressStart_1
+  - first:
+      213: 3819734926948890073
+    second: PowerManav_Label_PressStart_2
+  - first:
+      213: 4029129466267453082
+    second: PowerManav_Label_PressStart_3
+  - first:
+      213: 2662318255049388060
+    second: PowerManav_Label_PressStart_4
+  - first:
+      213: -9189956039117132858
+    second: PowerManav_Label_PressStart_5
+  - first:
+      213: -8745131849333956362
+    second: PowerManav_Label_PressStart_6
+  - first:
+      213: -2874050939957700328
+    second: PowerManav_Label_PressStart_7
+  - first:
+      213: -4340116252431300669
+    second: PowerManav_Label_PressStart_8
+  - first:
+      213: 4620437405079930013
+    second: PowerManav_Label_PressStart_9
+  - first:
+      213: -3520824222299838125
+    second: PowerManav_Label_PressStart_10
+  - first:
+      213: 2665568824802123395
+    second: PowerManav_Label_PressStart_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PowerManav_Label_PressStart_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 77
+        width: 91
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ee14441f5fc7a30800000000000000
+      internalID: 4214513767893036641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_PressStart_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 66
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e97140093401f40800000000000000
+      internalID: 5697127814446685716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_PressStart_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 66
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5f0f0adac620530800000000000000
+      internalID: 3819734926948890073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_PressStart_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 66
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a964eeef6e75ae730800000000000000
+      internalID: 4029129466267453082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_PressStart_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 66
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10b14fe85472f420800000000000000
+      internalID: 2662318255049388060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_PressStart_5
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 66
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cba7f24ca7b67080800000000000000
+      internalID: -9189956039117132858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_PressStart_6
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 66
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0ae7eaaec03a680800000000000000
+      internalID: -8745131849333956362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_PressStart_7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 66
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8199171c5e15d18d0800000000000000
+      internalID: -2874050939957700328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_PressStart_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 66
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7cee9634fc4c3c0800000000000000
+      internalID: -4340116252431300669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_PressStart_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 66
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9487bcf6571f1040800000000000000
+      internalID: 4620437405079930013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_PressStart_10
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 66
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3592a312605832fc0800000000000000
+      internalID: -3520824222299838125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_PressStart_11
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 77
+        width: 91
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e9fae29b00ef420800000000000000
+      internalID: 2665568824802123395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PowerManav_Label_PressStart_0: 4214513767893036641
+      PowerManav_Label_PressStart_1: 5697127814446685716
+      PowerManav_Label_PressStart_10: -3520824222299838125
+      PowerManav_Label_PressStart_11: 2665568824802123395
+      PowerManav_Label_PressStart_2: 3819734926948890073
+      PowerManav_Label_PressStart_3: 4029129466267453082
+      PowerManav_Label_PressStart_4: 2662318255049388060
+      PowerManav_Label_PressStart_5: -9189956039117132858
+      PowerManav_Label_PressStart_6: -8745131849333956362
+      PowerManav_Label_PressStart_7: -2874050939957700328
+      PowerManav_Label_PressStart_8: -4340116252431300669
+      PowerManav_Label_PressStart_9: 4620437405079930013
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

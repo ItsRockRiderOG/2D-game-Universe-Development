@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: a8f8032dfe52a674cb774cd46dd2c31e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -588494552809071905
+    second: PowerManav_Label_Difficulty_0
+  - first:
+      213: -4400290823248474554
+    second: PowerManav_Label_Difficulty_1
+  - first:
+      213: 3335115508478989748
+    second: PowerManav_Label_Difficulty_2
+  - first:
+      213: 3239412836701668213
+    second: PowerManav_Label_Difficulty_3
+  - first:
+      213: 7850081844586536263
+    second: PowerManav_Label_Difficulty_4
+  - first:
+      213: -6106371931770420108
+    second: PowerManav_Label_Difficulty_5
+  - first:
+      213: -4453886102425682484
+    second: PowerManav_Label_Difficulty_6
+  - first:
+      213: -7392156615933725662
+    second: PowerManav_Label_Difficulty_7
+  - first:
+      213: -8302327630666133243
+    second: PowerManav_Label_Difficulty_8
+  - first:
+      213: -424186433613734423
+    second: PowerManav_Label_Difficulty_9
+  - first:
+      213: 148877278382507204
+    second: PowerManav_Label_Difficulty_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PowerManav_Label_Difficulty_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 72
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda109b725f35d7f0800000000000000
+      internalID: -588494552809071905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_Difficulty_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 53
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e0ddb5fc60fe2c0800000000000000
+      internalID: -4400290823248474554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_Difficulty_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 53
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b559cf72e5b84e20800000000000000
+      internalID: 3335115508478989748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_Difficulty_3
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 53
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5738174dfc4b4fc20800000000000000
+      internalID: 3239412836701668213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_Difficulty_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 53
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dd25c98d711fc60800000000000000
+      internalID: 7850081844586536263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_Difficulty_5
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 53
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474886cb41fc14ba0800000000000000
+      internalID: -6106371931770420108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_Difficulty_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 53
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd3ed2003e9032c0800000000000000
+      internalID: -4453886102425682484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_Difficulty_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 53
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224773f19b8c96990800000000000000
+      internalID: -7392156615933725662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_Difficulty_8
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 53
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5011c3de10538cc80800000000000000
+      internalID: -8302327630666133243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_Difficulty_9
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 53
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edd9e1afacfc1af0800000000000000
+      internalID: -424186433613734423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerManav_Label_Difficulty_10
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 53
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4cd1d881be01200800000000000000
+      internalID: 148877278382507204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PowerManav_Label_Difficulty_0: -588494552809071905
+      PowerManav_Label_Difficulty_1: -4400290823248474554
+      PowerManav_Label_Difficulty_10: 148877278382507204
+      PowerManav_Label_Difficulty_2: 3335115508478989748
+      PowerManav_Label_Difficulty_3: 3239412836701668213
+      PowerManav_Label_Difficulty_4: 7850081844586536263
+      PowerManav_Label_Difficulty_5: -6106371931770420108
+      PowerManav_Label_Difficulty_6: -4453886102425682484
+      PowerManav_Label_Difficulty_7: -7392156615933725662
+      PowerManav_Label_Difficulty_8: -8302327630666133243
+      PowerManav_Label_Difficulty_9: -424186433613734423
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
