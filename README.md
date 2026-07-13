@@ -10,4 +10,4 @@ You must kill the previous boss/enemy in order to fight the next one.
 Fighting is basically dodging the Obstacles which are basically crafted by the enemy resembling their heads. These can be of any size, speed and can spawn at any angle.
 Inspite of their same spawn location everytime, their size, speed and firing direction is randomized, with increasing these parameneters for every next enemy.
 # Playable Demo Link
-https://play.unity.com/en/games/2d42c95b-5854-4719-a132-3808ac845e9f/web-builds
+https://play.unity.com/en/games/2cdcdd85-a87b-4efa-8e0e-f5ade9ade43f/powermanav-the-beginning
