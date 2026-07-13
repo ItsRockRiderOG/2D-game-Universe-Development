@@ -115,6 +115,7 @@ public class PlayerController : MonoBehaviour
         Destroy(gameObject);
         Instantiate(explosionEffect, transform.position, transform.rotation);
         restartButton.style.display = DisplayStyle.Flex; // Show the restart button when the player is destroyed
+        mainMenu.style.display = DisplayStyle.Flex;
         borderParent.SetActive(false); // Hide the border when the player is destroyed
         
     }
@@ -142,7 +143,7 @@ public class PlayerController : MonoBehaviour
             else
             {
             nextButton.style.display = DisplayStyle.Flex;
-            mainMenu.style.display = DisplayStyle.None;
+            mainMenu.style.display = DisplayStyle.Flex;
             }
        
         }

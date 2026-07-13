@@ -8,8 +8,6 @@ public class MusicManager : MonoBehaviour
 
     void Awake()
     {
-        // Singleton check - if one already exists, destroy this duplicate
-        if (Instance != null)
         {
             Destroy(gameObject);
             return;
@@ -23,7 +21,7 @@ public class MusicManager : MonoBehaviour
 
     public void PlayMusic(AudioClip clip, bool loop = true)
     {
-        if (audioSource.clip == clip && audioSource.isPlaying) return; // already playing this track, don't restart
+        if (audioSource.clip == clip && audioSource.isPlaying) return; 
 
         audioSource.clip = clip;
         audioSource.loop = loop;
