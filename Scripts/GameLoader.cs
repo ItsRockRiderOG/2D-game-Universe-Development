@@ -88,4 +88,9 @@ public class GameLoader : MonoBehaviour
         Debug.Log("BUTTON CLICKED");
         SceneManager.LoadScene("Legend4");
     }
+    public void Quit()
+    {
+        Debug.Log("GAME EXITTING");
+        Application.Quit();
+    }
 }
