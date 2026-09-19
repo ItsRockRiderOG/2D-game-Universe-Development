@@ -9,8 +9,7 @@
 - Fighting is basically dodging the Obstacles which are basically crafted by the enemy resembling their heads. These can be of any size, speed and can spawn at any angle.
 - Inspite of their same spawn location everytime, their size, speed and firing direction is randomized, with increasing these parameters for every next enemy.
 # Game Design Philosophy
-- The game is built around a simple principle:
-- Easy to understand, difficult to master.
+- The game is built around a simple principle: 'Easy to understand, difficult to master.'
 - The player does not need to learn complicated controls or memorize dozens of mechanics.
 ### Instead, the challenge comes from:
 - Reaction time
